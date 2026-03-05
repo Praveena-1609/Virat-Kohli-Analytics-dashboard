@@ -1,5 +1,7 @@
 # 🏏Virat Kohli Performance Analytics Dashboard
+<img src="ss/Career Overview.png" width="800">
 
+<img src="ss/Performance Analysis.png" width="800">
 
 📌 Project Overview
 
